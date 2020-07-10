@@ -1,0 +1,13 @@
+
+m
+java:S1104"RMake mTitle a static final constant or non-public and provide accessors if needed.(Ñããâıÿÿÿÿ
+n
+java:S1104"SMake mAuthor a static final constant or non-public and provide accessors if needed.(µ‚œÙşÿÿÿÿ
+l
+java:S1104"VMake mImageView a static final constant or non-public and provide accessors if needed.(’…Ş¦
+L
+java:S37407"/Provide the parametrized type for this generic.(¯¹µº8ıõÌ®°.
+p
+java:S1488@"[Immediately return this expression instead of assigning it to the temporary variable "bvh".(êÊ
+
+java:S1319T"wThe type of the "filteredList" object should be an interface such as "List" rather than the implementation "ArrayList".(œ…áÑ

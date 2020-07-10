@@ -1,0 +1,7 @@
+
+>
+java:S1172""(Remove this unused method parameter "v".(¡é††
+j
+java:S1450"TRemove the "login" field and declare it as a local variable in the relevant methods.(õ¸€§
+m	java:S116"SRename this field "Username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë–í—üÿÿÿÿ
+q	java:S116"WRename this field "UserPassword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¤¾ëþÿÿÿÿ
